@@ -1,8 +1,8 @@
-**Log on to codeastro.com for more projects!**
+**Log on to github.com for more projects!**
 
 **Database Name: smsci**
 
-**Developed by Ronash, Bikash, Dipendra, Sumit**
+**Developed by Gourango Mandal , Sandip Kumar **
 
 **Recommended PHP Version 5.6**
 
@@ -10,7 +10,7 @@
 **Admin Login Details**
 
 Username: admin
-Password: codeastro.com
+Password: Password 
 
 **After user registration you need to change the status of 'banned' column from 1 to 0 as a part of verification from the database**
 
